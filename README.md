@@ -23,13 +23,13 @@
 
 ## REMARQUES
 
-	- pour faire fonctionner le projet, il est nécessaire d'importer la librairie du MCP3008
+	pour faire fonctionner le projet, il est nécessaire d'importer la librairie du MCP3008
 	dans le dossier "lib" situé en racine du CIRTUITPY (conserver les noms!)
 
-	- l'évaluateur doit principalement porter son attention sur le code "rebuild-version_finale.py"
+	l'évaluateur doit principalement porter son attention sur le code "rebuild-version_finale.py"
 	qui est directement lié à l'annexe "aMAZEing.mp4" ;
 
-	- l'annexe "terminal.PNG" est un exemple de tableau retourné en fin d'exécution des codes
+	l'annexe "terminal.PNG" est un exemple de tableau retourné en fin d'exécution des codes
 	"version-repere_ortho" et merge.
 
 Pour toutes questions ou demandes
