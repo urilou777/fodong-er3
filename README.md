@@ -34,6 +34,6 @@
 
 Pour toutes questions ou demandes
 	auteur : Uriel FODONG
-		mail : uriel.fodong@etudiant.univ-rennes1.fr
+	mail : uriel.fodong@etudiant.univ-rennes1.fr
 
 Révision 12-Jan-2022
