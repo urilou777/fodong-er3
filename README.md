@@ -32,7 +32,7 @@
 	l'annexe "terminal.PNG" est un exemple de tableau retourné en fin d'exécution des codes
 	"version-repere_ortho" et merge.
 
-## Contact
+## CONTACT
 	auteur : Uriel FODONG
 		mail : uriel.fodong@etudiant.univ-rennes1.fr
 
